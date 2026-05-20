@@ -1,3 +1,5 @@
-.one{
-    color: #FF7628;
+@import "tailwindcss";
+
+.one {
+  color: #ff7628;
 }
